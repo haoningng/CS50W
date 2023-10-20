@@ -6,4 +6,8 @@
 
 # Table Of Contents
 
-<p>To be updated</p>
+1. Problem 0 - Search - [assignment](https://cs50.harvard.edu/web/2020/projects/0/search/). [completed]
+2. Project 1 - Wiki - [assignment](https://cs50.harvard.edu/web/2020/projects/1/wiki/). [completed]
+3. Project 2 - Commerce - [assignment](https://cs50.harvard.edu/web/2020/projects/2/commerce/).
+4. Project 3 - Mail - [assigment](https://cs50.harvard.edu/web/2020/projects/3/mail/).
+5. Project 4 - Network - [assigment](https://cs50.harvard.edu/web/2020/projects/4/network/).
