@@ -6,7 +6,7 @@ You can find the course materials [here](https://cs50.harvard.edu/web/2020/).
 
 # Table Of Contents
 
-1. Problem 0 - Search - [assignment](https://cs50.harvard.edu/web/2020/projects/0/search/). [completed]
+1. Project 0 - Search - [assignment](https://cs50.harvard.edu/web/2020/projects/0/search/). [completed]
 2. Project 1 - Wiki - [assignment](https://cs50.harvard.edu/web/2020/projects/1/wiki/). [completed]
 3. Project 2 - Commerce - [assignment](https://cs50.harvard.edu/web/2020/projects/2/commerce/).
 4. Project 3 - Mail - [assigment](https://cs50.harvard.edu/web/2020/projects/3/mail/).
