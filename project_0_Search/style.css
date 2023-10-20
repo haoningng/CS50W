@@ -1,0 +1,164 @@
+img.home {
+    width: 28%;
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.image {
+    width: 28%;
+    display: block;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3%;
+}
+
+form.search {
+    text-align: center;
+}
+
+input.text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+    height: 40px;
+    border-radius: 25px;
+    border-color: #f4f4f4 solid;
+    border-width: 1px;
+    font-size: 24px;
+    font-family: arial,sans-serif;
+    color: #202124;
+    padding-left: 50px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
+    background-size: 30px;
+    background-position: 10px;
+}
+
+input.button {
+    display: flex;
+    flex-shrink: 0;
+    width: 125px;
+    height: 35px;
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    background-color: #f4f4f4;
+    color: #202124;
+    border: 0;
+}
+
+input:focus, input:hover {
+    outline: #f4f4f4;
+    box-shadow: 2px 2px #b7b6b6a8;
+}
+
+
+
+#button1, #button2 {
+    display:inline-block;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    padding: 5px;
+
+}
+
+a.top:hover {
+    text-decoration: underline;
+}
+
+
+div.top_bar, div.logo2, div.logo {
+    display: flex;
+    font-size: 15px;
+    font-family: arial,sans-serif;
+    color: #202124;
+    padding: 5px;
+}
+
+div.logo2 {
+    flex: 1 100%;
+    justify-content: flex-end;
+}
+
+header, .container {
+    display: flex;
+    justify-content: right;
+    align-items: stretch;
+}
+
+img.advanced {
+    display: flex;
+    width: 8%;
+}
+
+p {
+    color: red;
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+div.title {
+    font-size: 15px;
+    font-family: arial,sans-serif;
+    color: #202124;
+    padding-left: 20px;
+}
+
+div.advanced {
+    display: inline-block;
+    font-size: 13px;
+    font-family: arial,sans-serif;
+    color: #202124;
+    padding-left: 20px;
+    min-width: 167px;
+    width: 10%;
+    height: 42px;
+}
+
+input.advanced{
+    display: inline-block;
+    width: 500px;
+    height: 25px;
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    padding: 1px 8px;
+    font-size: 13px;
+}
+
+form.advanced {
+    display: inline-block;
+}
+
+input.advanced:focus {
+    border: 1px #4d90fe solid;
+}
+
+
+input.advancedbutton {
+    height: 25px;
+    min-width: 120px;
+    background-color: #4d90fe;
+    box-shadow: none;
+    border: 1px solid #3079ed;
+    color: #fff;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 400px;
+}
+
+button.advanced:hover {
+    background-color: #4787ed;
+}
+
+hr {
+    border-top: 1px solid #ebebeb;
+}
